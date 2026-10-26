@@ -1,4 +1,4 @@
-# MahjongGirls_KR_v1.0
+# MahjongGirls_KR
 少女 X 愛 X 麻將 의 비공식 한국어 유저 패치입니다. 
 Release 에서 패치 ZIP을 받아 적용하시면 됩니다.
 
